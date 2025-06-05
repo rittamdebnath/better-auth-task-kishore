@@ -95,19 +95,19 @@ betterauth-auth-task/
 
 ## ✅ Completion Criteria
 
-Working Google and Email/Password login flows
-Session maintained post-login
-Organization-aware authentication and subscription state
-Tab-based access control based on subscription status
-Clean, modular, and well-documented code
-UI that clearly demonstrates all the above features
+- Working Google and Email/Password login flows
+- Session maintained post-login
+- Organization-aware authentication and subscription state
+- Tab-based access control based on subscription status
+- Clean, modular, and well-documented code
+- UI that clearly demonstrates all the above features
 
 
 ## 🧪 Bonus (Optional)
 
-Add a "Subscribe" button and mock subscription logic
-Use TailwindCSS or modern UI libraries
-Add unit tests (e.g., for auth routes or components)
+- Add a "Subscribe" button and mock subscription logic
+- Use TailwindCSS or modern UI libraries
+- Add unit tests (e.g., for auth routes or components)
 
 ## 🧾 Submission
 
